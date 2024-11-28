@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at the University of Waterloo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dake_avatar_smaller.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>Davis Center 3301</p>
+  #   <p>200 University Ave. West</p>
+  #   <p>Waterloo, Ontario N2L 3G1</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am a PhD student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), advised by Professor [Mark D. Smucker](https://uwaterloo.ca/management-science-engineering/profile/msmucker), and a member of the [Data Systems Group](https://uwaterloo.ca/data-systems-group/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on Information Retrieval, Natural Language Processing, and Artificial Intelligence, with an aim of helping Internet users evaluate the trustworthiness of online information more effectively and efficiently.
+My work also benefits from close collaborations with Professor [Charles L. A. Clarke](https://plg.uwaterloo.ca/~claclark/) and Professor [Robin Cohen](https://cs.uwaterloo.ca/~rcohen/), whose expertise helps inform and enhance my independent research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I received my Master's degree in Computer Science from the [University of Waterloo](https://uwaterloo.ca/) and my Bachelor's degree in Software Engineering from [Wuhan University](https://en.whu.edu.cn/).

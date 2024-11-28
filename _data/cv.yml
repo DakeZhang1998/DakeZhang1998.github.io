@@ -1,97 +1,135 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Dake Zhang
+    - name: Email
+      value: "[first_name].[last_name]@uwaterloo.ca"
+    - name: Website
+      value: <a href="https://zhangdake.tech/">https://zhangdake.tech/</a>
+    - name: Address
+      value: DC 3301, 200 University Ave. W., Waterloo, Ontario, Canada N2L 3G1
+    - name: Summary
+      value: A PhD student interested in Information Retrieval, Natural Language Processing, and Artificial Intelligence
     - name: Languages
-      value: English, German
+      value: Chinese (native), English (fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Student in Computer Science
+      institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
+      year: 2022 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
+    - title: Master of Mathematics in Computer Science
+      institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
+    - title: Bachelor of Engineering in Software Engineering
+      institution: <a href="https://en.whu.edu.cn/">Wuhan University</a>, Wuhan, China
+      year: 2016-2020
+      description:
+        - 'Supervisor: Prof. <a href="https://cs.whu.edu.cn/info/1019/2945.htm">Bo Han</a>'
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Applied Scientist Intern
+      institution: Microsoft, Remote
+      year: "Apr–Aug 2024"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Bing Whole Page Optimization (WPO) Team
+    - title: Research Scientist Intern
+      institution: HUAWEI Noah’s Ark Lab, Montreal, Canada
+      year: "Jun-Aug 2023"
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Accelerated Neural Technology (ANT) Team
+    - title: Machine Learning Engineer Intern
+      institution: ByteDance, Beijing, China
+      year: "May-Sep 2020"
       description:
+        - TikTok Recommender System Team
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Information Retrieval Group & Data Systems Group
+      institution: University of Waterloo, Waterloo, Canada
+      year: 2020 - Now
+      description:
+        - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
+    - title: Big Data Group
+      institution: Wuhan University, Wuhan, China
+      year: 2018-2020
+      description:
+        - 'Supervisor: Prof. <a href="https://cs.whu.edu.cn/info/1019/2945.htm">Bo Han</a>'
+    - title: EdTeKLA Research Group
+      institution: University of Alberta, Canada
+      year: 2019
+      description:
+        - 'Supervisor: Prof. <a href="https://www.cdemmansepp.com/">Carrie Demmans Epp</a>'
+
+- title: Academic Service
+  type: nested_list
+  contents:
+    - title: <b>Workshop Organizer</b>
+      items:
+        - '<a href="https://eval4rag.github.io/">ECIR 2025 Eval4RAG: Workshop on Evaluation of RAG Systems</a>'
+        - <a href="https://trec-lateral-reading.github.io/">TREC 2024 Lateral Reading Track</a>
+    - title: <b>Reviewer</b>
+      items:
+        - CIKM 2024
+        - ICTIR 2023
+    - title: <b>Graduate Mentor</b>
+      items:
+        - Sarah Wilson (<a href="https://cra.org/ur2phd/">CRA UR2PhD Program</a>), 2024
+        - Abirami Karthikeyan (<a href="https://cra.org/ur2phd/">CRA UR2PhD Program</a>), 2024
+        - Anna Li (<a href="https://cra.org/ur2phd/">CRA UR2PhD Program</a>), 2023
+        - Diana Brebeanu (<a href="https://cra.org/ur2phd/">CRA UR2PhD Program</a>), 2023
+    - title: <b>Committee Roles</b>
+      items:
+        - Graduate Student Representative, School Advisory Committee on Appointments, <a href="https://cs.uwaterloo.ca/">David R. Cheriton School of Computer Science</a>, 2025
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - 'First Prize (2k CAD), <a href="https://socialmedialab.ca/events/hackathon/">2023 Canadian #AI Misinformation Hackathon</a>'
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Student Travel Grant (350 EUR), SIGIR 2022
+    - year: 2021
+      items:
+        - <a href="https://www.mitacs.ca/our-programs/globalink-graduate-fellowship-students-postdocs/">Globalink Graduate Fellowship</a> (15k CAD), Mitacs
+    - year: 2020
+      items:
+        - Outstanding Graduate, Wuhan University
+    - year: 2019
+      items:
+        - <a href="https://www.mitacs.ca/our-programs/globalink-research-internship-students/">Globalink Research Internship</a> (5.7k CAD), China Scholarship Council & Mitacs
+        - Outstanding Student, Wuhan University
+        - Scholarship for Exemplary Student (1k CNY), Wuhan University
+    - year: 2018
+      items:
+        - Outstanding Student, Wuhan University
+        - Scholarship for Outstanding Student (2k CNY), Wuhan University
+    - year: 2017
+      items:
+        - Outstanding Student, Wuhan University
+        - Scholarship for Exemplary Student (1k CNY), Wuhan University
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
