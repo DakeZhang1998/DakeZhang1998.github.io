@@ -222,6 +222,13 @@
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
       {% endif %}
+      {% if entry.data %}
+        {% if entry.data contains '://' %}
+          <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+        {% else %}
+          <a href="{{ entry.data | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+        {% endif %}
+      {% endif %}
       {% if entry.video and site.enable_video_embedding %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}

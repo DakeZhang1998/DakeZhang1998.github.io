@@ -18,6 +18,14 @@
   - firstname: ["Mustafa"]
     url: https://mustafa-s.com/
 
+"tahami":
+  - firstname: ["Amir Vakili"]
+    url: https://www.linkedin.com/in/avakilit/
+
+"ghajar":
+  - firstname: ["Kamyar"]
+    url: https://www.linkedin.com/in/kamyarghajar/
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

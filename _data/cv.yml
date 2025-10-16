@@ -10,7 +10,7 @@
     - name: Address
       value: DC 3301, 200 University Ave. W., Waterloo, Ontario, Canada N2L 3G1
     - name: Summary
-      value: A PhD student interested in Information Retrieval, Natural Language Processing, and Artificial Intelligence
+      value: I design and evaluate retrieval‑augmented generation (RAG) systems and LLMs from the user’s perspective, building datasets, metrics, and experiments that reflect real human alignment and utility.
     - name: Languages
       value: Chinese (native), English (fluent)
 
@@ -19,7 +19,7 @@
   contents:
     - title: PhD Student in Computer Science
       institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
-      year: 2022 - Now
+      year: 2022 - 2026
       description:
         - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
     - title: Master of Mathematics in Computer Science
@@ -37,6 +37,11 @@
   type: time_table
   contents:
     - title: Applied Scientist Intern
+      institution: Amazon, Vancouver, Canada
+      year: "May–Aug 2025"
+      description:
+        - Amazon Store - Everyday Essential Product Science Team
+    - title: Applied Scientist Intern
       institution: Microsoft, Remote
       year: "Apr–Aug 2024"
       description:
@@ -52,7 +57,7 @@
       description:
         - TikTok Recommender System Team
 
-- title: Research Experience
+- title: Academic Experience
   type: time_table
   contents:
     - title: Information Retrieval Group & Data Systems Group
@@ -66,22 +71,43 @@
       description:
         - 'Supervisor: Prof. <a href="https://cs.whu.edu.cn/info/1019/2945.htm">Bo Han</a>'
     - title: EdTeKLA Research Group
-      institution: University of Alberta, Canada
+      institution: University of Alberta, Edmonton, Canada
       year: 2019
       description:
         - 'Supervisor: Prof. <a href="https://www.cdemmansepp.com/">Carrie Demmans Epp</a>'
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: 'CS 486/686: Introduction to Artificial Intelligence'
+      institution: University of Waterloo, Waterloo, Canada
+      year: 2021 - Now
+      description: 
+        - Teaching Assistant
+    - title: 'CS 138: Introduction to Data Abstraction and Implementation'
+      institution: University of Waterloo, Waterloo, Canada
+      year: 2023
+      description: 
+        - Teaching Assistant
 
 - title: Academic Service
   type: nested_list
   contents:
     - title: <b>Workshop Organizer</b>
       items:
+        - <a href="https://trec-dragun.github.io/">TREC 2025 DRAGUN Track</a>
         - '<a href="https://eval4rag.github.io/">ECIR 2025 Eval4RAG: Workshop on Evaluation of RAG Systems</a>'
         - <a href="https://trec-lateral-reading.github.io/">TREC 2024 Lateral Reading Track</a>
     - title: <b>Reviewer</b>
       items:
+        - AAAI 2026
         - CIKM 2024
+        - ECIR 2026
         - ICTIR 2023
+        - SIGIR 2025
+        - SIGIR-AP 2025
+        - WSDM 2026
+        - WWW 2026
     - title: <b>Graduate Mentor</b>
       items:
         - Sarah Wilson (<a href="https://cra.org/ur2phd/">CRA UR2PhD Program</a>), 2024
@@ -120,6 +146,7 @@
       items:
         - Outstanding Student, Wuhan University
         - Scholarship for Exemplary Student (1k CNY), Wuhan University
+
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
