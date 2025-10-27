@@ -8,7 +8,7 @@
     - name: Website
       value: <a href="https://zhangdake.tech/">https://zhangdake.tech/</a>
     - name: Address
-      value: DC 3301, 200 University Ave. W., Waterloo, Ontario, Canada N2L 3G1
+      value: DC 3301, 200 University Avenue West, Waterloo, Ontario, Canada  N2L 3G1
     - name: Summary
       value: I design and evaluate retrieval‑augmented generation (RAG) systems and LLMs from the user’s perspective, building datasets, metrics, and experiments that reflect real human alignment and utility.
     - name: Languages
@@ -18,17 +18,17 @@
   type: time_table
   contents:
     - title: PhD Student in Computer Science
-      institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
+      institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, ON, Canada
       year: 2022 - 2026
       description:
         - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
     - title: Master of Mathematics in Computer Science
-      institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, Canada
+      institution: <a href="https://uwaterloo.ca/">University of Waterloo</a>, Waterloo, ON, Canada
       year: 2020 - 2022
       description:
         - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
     - title: Bachelor of Engineering in Software Engineering
-      institution: <a href="https://en.whu.edu.cn/">Wuhan University</a>, Wuhan, China
+      institution: <a href="https://en.whu.edu.cn/">Wuhan University</a>, Wuhan, Hubei, China
       year: 2016-2020
       description:
         - 'Supervisor: Prof. <a href="https://cs.whu.edu.cn/info/1019/2945.htm">Bo Han</a>'
@@ -37,7 +37,7 @@
   type: time_table
   contents:
     - title: Applied Scientist Intern
-      institution: Amazon, Vancouver, Canada
+      institution: Amazon, Vancouver, BC, Canada
       year: "May–Aug 2025"
       description:
         - Amazon Store - Everyday Essential Product Science Team
@@ -47,7 +47,7 @@
       description:
         - Bing Whole Page Optimization (WPO) Team
     - title: Research Scientist Intern
-      institution: HUAWEI Noah’s Ark Lab, Montreal, Canada
+      institution: Huawei Noah’s Ark Lab, Montreal, QC, Canada
       year: "Jun-Aug 2023"
       description:
         - Accelerated Neural Technology (ANT) Team
@@ -61,17 +61,17 @@
   type: time_table
   contents:
     - title: Information Retrieval Group & Data Systems Group
-      institution: University of Waterloo, Waterloo, Canada
+      institution: University of Waterloo, Waterloo, ON, Canada
       year: 2020 - Now
       description:
         - 'Supervisor: Prof. <a href="https://uwaterloo.ca/management-science-engineering/profile/msmucker">Mark D. Smucker</a>'
     - title: Big Data Group
-      institution: Wuhan University, Wuhan, China
+      institution: Wuhan University, Wuhan, Hubei, China
       year: 2018-2020
       description:
         - 'Supervisor: Prof. <a href="https://cs.whu.edu.cn/info/1019/2945.htm">Bo Han</a>'
     - title: EdTeKLA Research Group
-      institution: University of Alberta, Edmonton, Canada
+      institution: University of Alberta, Edmonton, AB, Canada
       year: 2019
       description:
         - 'Supervisor: Prof. <a href="https://www.cdemmansepp.com/">Carrie Demmans Epp</a>'
@@ -80,12 +80,12 @@
   type: time_table
   contents:
     - title: 'CS 486/686: Introduction to Artificial Intelligence'
-      institution: University of Waterloo, Waterloo, Canada
+      institution: University of Waterloo, Waterloo, ON, Canada
       year: 2021 - Now
       description: 
         - Teaching Assistant
     - title: 'CS 138: Introduction to Data Abstraction and Implementation'
-      institution: University of Waterloo, Waterloo, Canada
+      institution: University of Waterloo, Waterloo, ON, Canada
       year: 2023
       description: 
         - Teaching Assistant

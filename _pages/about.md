@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am a PhD candidate in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), advised by Professor [Mark D. Smucker](https://uwaterloo.ca/management-science-engineering/profile/msmucker), and a member of the [Data Systems Group](https://uwaterloo.ca/data-systems-group/).
 
-I design and evaluate retrieval‑augmented generation (RAG) systems and LLMs from the user's perspective, building datasets, metrics, and experiments that reflect real human alignment and utility.
-I lead the organization of the [TREC 2024 Lateral Reading Track](https://trec-lateral-reading.github.io/) and the [TREC 2025 DRAGUN Track](https://trec-dragun.github.io/).
-My work also benefits from close collaborations with Professor [Charles L. A. Clarke](https://plg.uwaterloo.ca/~claclark/) and Professor [Robin Cohen](https://cs.uwaterloo.ca/~rcohen/), whose expertise helps inform and enhance my independent research.
+Hi, I'm a PhD candidate in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), advised by Professor [Mark D. Smucker](https://uwaterloo.ca/management-science-engineering/profile/msmucker) and a member of the [Data Systems Group](https://uwaterloo.ca/data-systems-group/). 
 
-Previously, I received my Master's degree in Computer Science from the [University of Waterloo](https://uwaterloo.ca/) and my Bachelor's degree in Software Engineering from [Wuhan University](https://en.whu.edu.cn/).
+My research focuses on trustworthy AI, with an emphasis on Retrieval-Augmented Generation (RAG). I collaborate closely with Professors [Charles L. A. Clarke](https://plg.uwaterloo.ca/~claclark/) and [Robin Cohen](https://cs.uwaterloo.ca/~rcohen/), whose expertise informs and strengthens my independent research. I've led large-scale community efforts ([TREC 2024 Lateral Reading](https://trec-lateral-reading.github.io/) and [TREC 2025 DRAGUN](https://trec-dragun.github.io/)) and shipped production-level AI at Amazon, Microsoft, Huawei, and ByteDance. 
+
+I hold a Master's in Computer Science from the [University of Waterloo](https://uwaterloo.ca/) and a Bachelor's in Software Engineering from [Wuhan University](https://en.whu.edu.cn/).
+
