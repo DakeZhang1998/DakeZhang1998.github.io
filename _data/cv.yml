@@ -101,10 +101,10 @@
     - title: <b>Reviewer</b>
       items:
         - AAAI 2026
-        - CIKM 2024
+        - CIKM 2024, 2025, 2026
         - ECIR 2026
-        - ICTIR 2023
-        - SIGIR 2025
+        - ICTIR 2023, 2026
+        - SIGIR 2025, 2026
         - SIGIR-AP 2025
         - WSDM 2026
         - WWW 2026
